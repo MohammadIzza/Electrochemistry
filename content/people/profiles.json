@@ -1,0 +1,14 @@
+{
+  "lubhani-mishra": {
+    "name": "Lubhani Mishra",
+    "roles": ["Associate Director"],
+    "affiliations": ["Allen J. Bard Center for Electrochemistry"],
+    "email": "lubhani.mishra@austin.utexas.edu",
+    "phone": "720-793-0201",
+    "building": "WEL",
+    "room": "4.420",
+    "image": { "src": "2024-08/Professional pic - 4.jpg" },
+    "links": [{ "label": "LinkedIn", "href": "https://www.linkedin.com/in/lubhani-mishra-87634465/" }],
+    "sections": [{ "heading": "Centers and Institutes", "items": ["Texas Materials Institute"] }]
+  }
+}
