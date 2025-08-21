@@ -1,0 +1,387 @@
+[
+ {
+  "profile_link": "https://chemistry.utexas.edu/directory/michael-aubrey",
+  "department": [
+   "Chemistry",
+   "Allen J. Bard Center for Electrochemistry"
+  ],
+  "domain_primary": [
+   "chemistry.utexas.edu",
+   "electrochemistry.utexas.edu"
+  ],
+  "hide_on_college": false,
+  "areas_of_research": [
+   "Energy",
+   "Materials Science",
+   "Nanoscience and Nanotechnology"
+  ],
+  "building": "WEL",
+  "name_first": "Michael",
+  "room_number": "4.150",
+  "objectID": "entity:user/658:en",
+  "slug": "/michael-aubrey",
+  "custom_directory_affiliation": "1283",
+  "email": "michael.aubrey@austin.utexas.edu",
+  "image_path": "/sites/default/files/2023-01/chemistry%2C%20Michael%20Aubrey%20Directory.jpg",
+  "name_last": "Aubrey",
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "building_url": "/utm/wel",
+  "custom_directory_affiliation_name": "Chemistry GSC",
+  "department_id": [
+   748,
+   959
+  ],
+  "fields_of_interest": [
+   "Inorganic Chemistry",
+   "Materials"
+  ],
+  "titles_general": "Assistant Professor",
+  "search_api_id": "entity:user/658:en",
+  "search_api_datasource": "entity:user",
+  "search_api_language": "en"
+ },
+ {
+  "department_id": 959,
+  "hide_on_college": false,
+  "image_path": "/sites/default/files/2026-04/baker-lane-portrait-2022.jpg",
+  "name_last": "Baker",
+  "search_api_language": "en",
+  "profile_link": "https://artsci.tamu.edu/chemistry/contact/profiles/lane-baker.html",
+  "slug": "/lane-baker",
+  "search_api_datasource": "entity:user",
+  "titles_general": "Professor",
+  "search_api_id": "entity:user/2941:en",
+  "department": "Allen J. Bard Center for Electrochemistry",
+  "domain_primary": "electrochemistry.utexas.edu",
+  "name_first": "Lane",
+  "objectID": "entity:user/2941:en"
+ },
+ {
+  "department": "Allen J. Bard Center for Electrochemistry",
+  "email": "xiaole.chen@cm.utexas.edu",
+  "name_first": "Xiaole (Joy)",
+  "search_api_language": "en",
+  "profile_link": "https://www.linkedin.com/in/xiaole-chen-49110040/",
+  "slug": "/xiaole-joy-chen",
+  "objectID": "entity:user/1120:en",
+  "search_api_id": "entity:user/1120:en",
+  "search_api_datasource": "entity:user",
+  "domain_primary": "electrochemistry.utexas.edu",
+  "hide_on_college": false,
+  "image_path": "/sites/default/files/2023-11/Screenshot%202023-11-14%20at%2011.04.15%20AM.png",
+  "name_last": "Chen",
+  "titles_general": "Facility Manager",
+  "department_id": 959,
+  "position_type": "4-Staff"
+ },
+ {
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "profile_link": "https://chemistry.utexas.edu/directory/richard-crooks",
+  "department_id": [
+   748,
+   959,
+   1153
+  ],
+  "domain_primary": [
+   "chemistry.utexas.edu",
+   "electrochemistry.utexas.edu",
+   "ils.utexas.edu"
+  ],
+  "email": "crooks@cm.utexas.edu",
+  "hide_on_college": true,
+  "image_path": "/sites/default/files/2023-01/chemistry%2C%20Richard%20Crooks%20Directory.jpg",
+  "name_last": "Crooks",
+  "slug": "/richard-crooks",
+  "areas_of_research": [
+   "Energy",
+   "Materials Science",
+   "Nanoscience and Nanotechnology"
+  ],
+  "building": "NHB",
+  "name_first": "Richard",
+  "room_number": "5.112A",
+  "titles_general": "Professor Emeritus",
+  "search_api_id": "entity:user/662:en",
+  "building_url": "/utm/nhb",
+  "department": [
+   "Chemistry",
+   "Allen J. Bard Center for Electrochemistry",
+   "Interdisciplinary Life Sciences Graduate Programs"
+  ],
+  "search_api_datasource": "entity:user",
+  "search_api_language": "en",
+  "objectID": "entity:user/662:en"
+ },
+ {
+  "building": "WEL",
+  "department_id": [
+   748,
+   959
+  ],
+  "telephone": "512-769-3180",
+  "search_api_language": "en",
+  "building_url": "/utm/wel",
+  "hide_on_college": false,
+  "image_path": "/sites/default/files/2023-01/Henkelman%2C%20Graeme%20-%20headshot%202011.jpg",
+  "name_first": "Graeme",
+  "room_number": "3.162",
+  "titles_additional": "George W. Watt Centennial Professor",
+  "titles_general": "Professor",
+  "profile_link": "https://chemistry.utexas.edu/directory/graeme-henkelman",
+  "custom_directory_affiliation_name": "Chemistry GSC",
+  "department": [
+   "Chemistry",
+   "Allen J. Bard Center for Electrochemistry"
+  ],
+  "name_last": "Henkelman",
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "search_api_datasource": "entity:user",
+  "slug": "/graeme-henkelman",
+  "custom_directory_affiliation": "1283",
+  "domain_primary": [
+   "chemistry.utexas.edu",
+   "electrochemistry.utexas.edu"
+  ],
+  "email": "henkelman@utexas.edu",
+  "fields_of_interest": [
+   "Analytical Chemistry",
+   "Chemical Theory and Computation",
+   "Inorganic Chemistry",
+   "Physical Chemistry",
+   "Materials"
+  ],
+  "search_api_id": "entity:user/664:en",
+  "objectID": "entity:user/664:en",
+  "areas_of_research": [
+   "Materials Science",
+   "Nanoscience and Nanotechnology",
+   "Energy"
+  ]
+ },
+ {
+  "profile_link": "https://chemistry.utexas.edu/directory/yi-lu",
+  "building": "WEL",
+  "email": "yi.lu@utexas.edu",
+  "custom_directory_affiliation": [
+   "1045",
+   "1283",
+   "1517"
+  ],
+  "custom_directory_affiliation_name": [
+   "Institute for Neuroscience - Faculty",
+   "Chemistry GSC",
+   "TALC"
+  ],
+  "domain_primary": [
+   "chemistry.utexas.edu",
+   "ils.utexas.edu",
+   "electrochemistry.utexas.edu"
+  ],
+  "fields_of_interest": [
+   "Biological Mechanisms of Aging & Dementia",
+   "Cellular/Molecular/Structure",
+   "Chemical Biology",
+   "Electrophys, Optogenetics & Chemogenetics",
+   "Microbiology, Immunology and Infectious Disease",
+   "Molecular Biology, Genetics & Genomics"
+  ],
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "titles_additional": "Department of Chemistry",
+  "search_api_id": "entity:user/671:en",
+  "search_api_datasource": "entity:user",
+  "areas_of_research": [
+   "AI for Health or Computational Science",
+   "Energy",
+   "Materials Science",
+   "Artificial Intelligence and/or Robotics"
+  ],
+  "department": [
+   "Chemistry",
+   "Interdisciplinary Life Sciences Graduate Programs",
+   "Allen J. Bard Center for Electrochemistry"
+  ],
+  "image_path": "/sites/default/files/2025-01/Yi%20Lu%20head%20shot.jpg",
+  "name_first": "Yi",
+  "name_last": "Lu",
+  "search_api_language": "en",
+  "objectID": "entity:user/671:en",
+  "slug": "/yi-lu",
+  "building_url": "/utm/wel",
+  "department_id": [
+   748,
+   1153,
+   959
+  ],
+  "hide_on_college": false,
+  "room_number": "4.244",
+  "titles_general": "Professor"
+ },
+ {
+  "domain_primary": "electrochemistry.utexas.edu",
+  "email": "lubhani.mishra@austin.utexas.edu",
+  "image_path": "/sites/default/files/2024-08/Professional%20pic%20-%204.jpg",
+  "name_first": "Lubhani",
+  "name_last": "Mishra",
+  "search_api_language": "en",
+  "profile_link": "https://electrochemistry.utexas.edu/directory/lubhani-mishra",
+  "building": "WEL",
+  "department": "Allen J. Bard Center for Electrochemistry",
+  "position_type": "4-Staff",
+  "telephone": "720-793-0201",
+  "search_api_id": "entity:user/1393:en",
+  "objectID": "entity:user/1393:en",
+  "slug": "/lubhani-mishra",
+  "titles_general": "Associate Director",
+  "building_url": "/utm/wel",
+  "hide_on_college": false,
+  "room_number": "4.420",
+  "search_api_datasource": "entity:user",
+  "department_id": 959
+ },
+ {
+  "profile_link": "https://chemistry.utexas.edu/directory/hang-ren",
+  "building": "FNT",
+  "custom_directory_affiliation_name": "Chemistry GSC",
+  "domain_primary": [
+   "chemistry.utexas.edu",
+   "electrochemistry.utexas.edu"
+  ],
+  "room_number": "2.136A",
+  "search_api_id": "entity:user/677:en",
+  "building_url": "/utm/fnt",
+  "image_path": "/sites/default/files/2025-03/Hang%20Ren%202025%20square.jpg",
+  "name_last": "Ren",
+  "titles_additional": "Dow Chemical Company Endowed Professorship in Chemistry",
+  "search_api_datasource": "entity:user",
+  "search_api_language": "en",
+  "custom_directory_affiliation": "1283",
+  "email": "hren@utexas.edu",
+  "fields_of_interest": [
+   "Analytical Chemistry",
+   "Physical Chemistry",
+   "Materials",
+   "Chemical Biology"
+  ],
+  "hide_on_college": false,
+  "objectID": "entity:user/677:en",
+  "slug": "/hang-ren",
+  "department": [
+   "Chemistry",
+   "Allen J. Bard Center for Electrochemistry"
+  ],
+  "department_id": [
+   748,
+   959
+  ],
+  "name_first": "Hang",
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "titles_general": "Associate Professor"
+ },
+ {
+  "building": "EER",
+  "name_first": "Joaquin",
+  "search_api_id": "entity:user/1767:en",
+  "name_last": "Resasco",
+  "telephone": "512-471-5238",
+  "building_url": "/utm/eer",
+  "department_id": 959,
+  "domain_primary": "electrochemistry.utexas.edu",
+  "email": "resasco@utexas.edu",
+  "image_path": "/sites/default/files/2024-10/2022_JOAQUIN%20RESASCO.jpg",
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "room_number": "5.612",
+  "titles_general": "Assistant Professor",
+  "slug": "/joaquin-resasco",
+  "department": "Allen J. Bard Center for Electrochemistry",
+  "hide_on_college": true,
+  "search_api_datasource": "entity:user",
+  "search_api_language": "en",
+  "objectID": "entity:user/1767:en",
+  "profile_link": "https://www.che.utexas.edu/people/faculty/resasco"
+ },
+ {
+  "hide_on_college": false,
+  "room_number": "4.414",
+  "telephone": "(512)471-4456",
+  "titles_additional": "Director, Center for Electrochemistry",
+  "areas_of_research": [
+   "Energy",
+   "Materials Science"
+  ],
+  "custom_directory_affiliation": "1283",
+  "department_id": [
+   748,
+   959
+  ],
+  "titles_general": "Professor",
+  "search_api_datasource": "entity:user",
+  "objectID": "entity:user/679:en",
+  "building_url": "/utm/wel",
+  "department": [
+   "Chemistry",
+   "Allen J. Bard Center for Electrochemistry"
+  ],
+  "name_first": "Michael",
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "search_api_id": "entity:user/679:en",
+  "search_api_language": "en",
+  "building": "WEL",
+  "domain_primary": [
+   "chemistry.utexas.edu",
+   "electrochemistry.utexas.edu"
+  ],
+  "email": "mrose@cm.utexas.edu",
+  "image_path": "/sites/default/files/2023-01/chemistry%2C%20Mike%20Rose%20Directory.jpg",
+  "name_last": "Rose",
+  "profile_link": "https://chemistry.utexas.edu/directory/michael-rose",
+  "slug": "/michael-rose",
+  "custom_directory_affiliation_name": "Chemistry GSC",
+  "fields_of_interest": [
+   "Chemical Biology",
+   "Inorganic Chemistry",
+   "Materials"
+  ]
+ },
+ {
+  "slug": "/venkat-subramanian",
+  "additional_information": "<p>Ernest Dashiell Cockrell II Professorship in Engineering</p>",
+  "department_id": 959,
+  "image_path": "/sites/default/files/2023-09/Subramanian-Venkat.png",
+  "search_api_language": "en",
+  "profile_link": "https://www.me.utexas.edu/people/faculty-directory/subramanian",
+  "department": "Allen J. Bard Center for Electrochemistry",
+  "name_first": "Venkat",
+  "titles_additional": "Affiliated Faculty, Oden Institute",
+  "search_api_datasource": "entity:user",
+  "hide_on_college": true,
+  "name_last": "Subramanian",
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "search_api_id": "entity:user/1078:en",
+  "domain_primary": "electrochemistry.utexas.edu",
+  "titles_general": "Professor",
+  "objectID": "entity:user/1078:en"
+ },
+ {
+  "profile_link": "https://che.utexas.edu/people/faculty/zheng",
+  "building": "CPE",
+  "building_url": "/utm/cpe",
+  "domain_primary": "electrochemistry.utexas.edu",
+  "search_api_datasource": "entity:user",
+  "search_api_language": "en",
+  "slug": "/kent-zheng",
+  "department_id": 959,
+  "email": "kentz@utexas.edu",
+  "name_last": "Zheng",
+  "room_number": "3.404",
+  "telephone": "512-232-2048",
+  "titles_general": "Assistant Professor",
+  "search_api_id": "entity:user/2483:en",
+  "department": "Allen J. Bard Center for Electrochemistry",
+  "image_path": "/sites/default/files/2025-07/2023_-CHE-Kent_Zheng_0.jpg",
+  "position_type": "1-Tenure-Track/Tenured Faculty",
+  "titles_additional": "Chemical Engineering",
+  "objectID": "entity:user/2483:en",
+  "hide_on_college": true,
+  "name_first": "Kent"
+ }
+]
