@@ -1,339 +1,158 @@
 {
-  "arumugam-manthiram": {
-    "name": "Arumugam Manthiram",
-    "roles": [
-      "Professor"
-    ],
-    "bio": "George T. & Gladys H. Abell Endowed Chair of Engineering",
-    "profileUrl": "https://www.me.utexas.edu/people/faculty-directory/manthiram",
-    "image": {
-      "src": "2023-09/Manthiram-Ram.png"
-    }
-  },
-  "benjamin-keith-keitz": {
-    "name": "Benjamin Keith Keitz",
-    "roles": [
-      "Associate Professor"
-    ],
-    "department": "Interdisciplinary Life Sciences Graduate Programs",
-    "profileUrl": "https://www.che.utexas.edu/people/faculty/keitz",
-    "image": {
-      "src": "2023-09/Keitz-Keith.png"
-    }
-  },
-  "brian-korgel": {
-    "name": "Brian Korgel",
-    "roles": [
-      "Professor"
-    ],
-    "bio": "Rashid Engineering Regents Chair (Holder)",
-    "profileUrl": "https://che.utexas.edu/people/faculty/korgel",
-    "image": {
-      "src": "2023-09/Korgel-Brian.png"
-    }
-  },
-  "charles-buddie-mullins": {
-    "name": "Charles Buddie Mullins",
-    "roles": [
-      "Professor"
-    ],
-    "department": "Chemistry",
-    "bio": "Melvin H. Gertz Regents Chair in Chemical Engineering (Holder)",
-    "profileUrl": "https://www.che.utexas.edu/people/faculty/mullins",
-    "image": {
-      "src": "2023-09/Mullins-Buddie.png"
-    }
-  },
-  "david-mitlin": {
-    "name": "David Mitlin",
-    "roles": [
-      "Professor"
-    ],
-    "bio": "David Allen Cockrell Professorship in Engineering",
-    "profileUrl": "https://www.me.utexas.edu/people/faculty-directory/mitlin",
-    "image": {
-      "src": "2023-09/mitlin-david-2023.png"
-    }
-  },
-  "delia-milliron": {
-    "name": "Delia Milliron",
-    "roles": [
-      "Professor",
-      "Department Chair, Chemical Engineering"
-    ],
-    "bio": "Bill L. Stanley Endowed Leadership Chair in Chemical Engineering (Holder)\nErnest Cockrell, Sr. Chair in Engineering #1 (Holder)",
-    "profileUrl": "https://www.che.utexas.edu/people/faculty/milliron",
-    "image": {
-      "src": "2023-09/2021_DELIA MILIRON.png"
-    }
-  },
-  "donald-siegel": {
-    "name": "Donald Siegel",
-    "roles": [
-      "Professor",
-      "Department Chair, Mechanical Engineering"
-    ],
-    "bio": "Cockrell Family Chair for Departmental Leadership #4 (Holder)\nTemple Foundation Endowed Professorship No. 4 (Holder)",
-    "profileUrl": "https://www.me.utexas.edu/people/faculty-directory/siegel",
-    "image": {
-      "src": "2023-09/Siegel-Donald-21.png"
-    }
-  },
-  "eric-anslyn": {
-    "name": "Eric Anslyn",
-    "roles": [
-      "Professor"
-    ],
-    "department": "Chemistry",
-    "bio": "Welch Regents Chair in Chemistry (Holder)\nDistinguished Teaching Professor",
-    "email": "anslyn@austin.utexas.edu",
-    "phone": "512-471-0068",
-    "building": "NHB",
-    "room": "5.114A",
-    "profileUrl": "https://chemistry.utexas.edu/directory/eric-anslyn",
-    "image": {
-      "src": "2023-01/chemistry, Eric Anslyn Directory.jpg"
-    }
-  },
-  "graeme-henkelman": {
-    "name": "Graeme Henkelman",
-    "roles": [
-      "Professor",
-      "George W. Watt Centennial Professor"
-    ],
-    "department": "Chemistry",
-    "email": "henkelman@utexas.edu",
-    "phone": "512-769-3180",
-    "building": "WEL",
-    "room": "3.162",
-    "profileUrl": "https://chemistry.utexas.edu/directory/graeme-henkelman",
-    "image": {
-      "src": "2023-01/Henkelman, Graeme - headshot 2011.jpg"
-    }
-  },
-  "guihua-yu": {
-    "name": "Guihua Yu",
-    "roles": [
-      "Professor"
-    ],
-    "bio": "Temple Foundation Endowed Professorship No. 2",
-    "profileUrl": "https://www.me.utexas.edu/people/faculty-directory/yu",
-    "image": {
-      "src": "2023-09/Yu-Guihua.png"
-    }
-  },
-  "gyeong-hwang": {
-    "name": "Gyeong Hwang",
-    "roles": [
-      "Professor"
-    ],
-    "bio": " Matthew Van Winkle Regents Professorship in Chemical Engineering",
-    "profileUrl": "https://www.che.utexas.edu/people/faculty/hwang",
-    "image": {
-      "src": "2023-08/gyeong-hwang.jpeg"
-    }
-  },
-  "hang-ren": {
-    "name": "Hang Ren",
-    "roles": [
-      "Associate Professor",
-      "Dow Chemical Company Endowed Professorship in Chemistry"
-    ],
-    "department": "Chemistry",
-    "email": "hren@utexas.edu",
-    "building": "FNT",
-    "room": "2.136A",
-    "profileUrl": "https://chemistry.utexas.edu/directory/hang-ren",
-    "image": {
-      "src": "2025-03/Hang Ren 2025 square.jpg"
-    }
-  },
-  "joaquin-resasco": {
-    "name": "Joaquin Resasco",
-    "roles": [
-      "Assistant Professor"
-    ],
-    "department": "Allen J. Bard Center for Electrochemistry",
-    "email": "resasco@utexas.edu",
-    "phone": "512-471-5238",
-    "building": "EER",
-    "room": "5.612",
-    "profileUrl": "https://www.che.utexas.edu/people/faculty/resasco",
-    "image": {
-      "src": "2024-10/2022_JOAQUIN RESASCO.jpg"
-    }
-  },
-  "jonathan-chen": {
-    "name": "Jonathan Chen",
-    "roles": [
-      "Professor"
-    ],
-    "department": "Textiles & Apparel",
-    "email": "jychen2@austin.utexas.edu",
-    "phone": "5124710633",
-    "building": "GEA",
-    "room": "304",
-    "profileUrl": "https://txa.utexas.edu/directory/jonathan-chen",
-    "image": {
-      "src": "2022-12/Jonathan Chen.jpg"
-    }
-  },
-  "kent-zheng": {
-    "name": "Kent Zheng",
+  "marcelinus-christwardana": {
+    "name": "Marcelinus Christwardana",
     "roles": [
       "Assistant Professor",
-      "Chemical Engineering"
+      "Head of Research Cluster"
     ],
-    "department": "Allen J. Bard Center for Electrochemistry",
-    "email": "kentz@utexas.edu",
-    "phone": "512-232-2048",
-    "building": "CPE",
-    "room": "3.404",
-    "profileUrl": "https://che.utexas.edu/people/faculty/zheng",
-    "image": {
-      "src": "2025-07/2023_-CHE-Kent_Zheng_0.jpg"
-    }
+    "department": "Chemistry",
+    "bio": "Bioelectrochemistry Division",
+    "researchGroup": {
+      "label": "Bioelectrochemistry Group",
+      "href": "https://sites.google.com/view/marcel-group/"
+    },
+    "email": "marcelinus@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/marcelinus-christwardana/"
   },
-  "lubhani-mishra": {
-    "name": "Lubhani Mishra",
+  "yayuk-astuti": {
+    "name": "Yayuk Astuti",
     "roles": [
-      "Associate Director"
+      "Professor",
+      "Secretary of Research Cluster"
     ],
-    "department": "Allen J. Bard Center for Electrochemistry",
-    "email": "lubhani.mishra@austin.utexas.edu",
-    "phone": "720-793-0201",
-    "building": "WEL",
-    "room": "4.420",
-    "profileUrl": "/directory/lubhani-mishra",
-    "image": {
-      "src": "2024-08/Professional pic - 4.jpg"
-    }
+    "department": "Chemistry",
+    "bio": "Photoelectrochemistry Division",
+    "email": "yayuk.astuti@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/yayuk-astuti/"
   },
-  "michael-aubrey": {
-    "name": "Michael Aubrey",
+  "didik-setiyo-widodo": {
+    "name": "Didik Setiyo Widodo",
     "roles": [
       "Assistant Professor"
     ],
     "department": "Chemistry",
-    "email": "michael.aubrey@austin.utexas.edu",
-    "building": "WEL",
-    "room": "4.150",
-    "profileUrl": "https://chemistry.utexas.edu/directory/michael-aubrey",
-    "image": {
-      "src": "2023-01/chemistry, Michael Aubrey Directory.jpg"
-    }
+    "bio": "Electrocatalysis & Electroanalysis Division",
+    "email": "widodo.ds@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/didik-setiyo-widodo/"
   },
-  "michael-rose": {
-    "name": "Michael Rose",
-    "roles": [
-      "Professor",
-      "Director, Center for Electrochemistry"
-    ],
-    "department": "Chemistry",
-    "email": "mrose@cm.utexas.edu",
-    "phone": "(512)471-4456",
-    "building": "WEL",
-    "room": "4.414",
-    "profileUrl": "https://chemistry.utexas.edu/directory/michael-rose",
-    "image": {
-      "src": "2023-01/chemistry, Mike Rose Directory.jpg"
-    }
-  },
-  "venkat-subramanian": {
-    "name": "Venkat Subramanian",
-    "roles": [
-      "Professor",
-      "Affiliated Faculty, Oden Institute"
-    ],
-    "department": "Allen J. Bard Center for Electrochemistry",
-    "bio": "Ernest Dashiell Cockrell II Professorship in Engineering",
-    "profileUrl": "https://www.me.utexas.edu/people/faculty-directory/subramanian",
-    "image": {
-      "src": "2023-09/Subramanian-Venkat.png"
-    }
-  },
-  "wennie-wang": {
-    "name": "Wennie Wang",
+  "linda-suyati": {
+    "name": "Linda Suyati",
     "roles": [
       "Assistant Professor"
     ],
-    "profileUrl": "https://www.che.utexas.edu/people/faculty/wang",
-    "image": {
-      "src": "2023-09/2022_WENNIE WANG.png"
-    }
+    "department": "Chemistry",
+    "bio": "Electrocatalysis & Electroanalysis Division",
+    "email": "linda_suyati@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/linda-suyati/"
   },
-  "xiaole-joy-chen": {
-    "name": "Xiaole (Joy) Chen",
+  "rahmad-nuryanto": {
+    "name": "Rahmad Nuryanto",
     "roles": [
-      "Facility Manager"
+      "Assistant Professor"
     ],
-    "department": "Allen J. Bard Center for Electrochemistry",
-    "email": "xiaole.chen@cm.utexas.edu",
-    "profileUrl": "https://www.linkedin.com/in/xiaole-chen-49110040/",
-    "image": {
-      "src": "2023-11/Screenshot 2023-11-14 at 11.04.15 AM.png"
-    }
+    "department": "Chemistry",
+    "bio": "Electrocatalysis & Electroanalysis Division",
+    "email": "nuryantorahmad@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/rahmad-nuryanto/"
   },
-  "xiuling-li": {
-    "name": "Xiuling Li",
+  "muhammad-cholid-djunaidi": {
+    "name": "Muhammad Cholid Djunaidi",
     "roles": [
       "Professor"
     ],
-    "bio": "Truchard Foundation Endowed Chair Professor of Electrical and Computer Engineering",
-    "email": "xiuling.li@utexas.edu",
-    "profileUrl": "https://sites.utexas.edu/xiulingli/",
-    "image": {
-      "src": "2024-07/Li-Xiuling_0.png"
-    }
+    "department": "Chemistry",
+    "bio": "Electrocatalysis & Electroanalysis Division",
+    "email": "choliddjunaidi@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/muhammad-cholid-djunaidi/"
   },
-  "yi-lu": {
-    "name": "Yi Lu",
+  "agus-subagio": {
+    "name": "Agus Subagio",
     "roles": [
-      "Professor",
-      "Department of Chemistry"
+      "Professor"
+    ],
+    "department": "Physics",
+    "bio": "Electrocatalysis & Electroanalysis Division",
+    "email": "agussubagio@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/agus-subagio/"
+  },
+  "oki-ade-putra": {
+    "name": "Oki Ade Putra",
+    "roles": [
+      "Assistant Professor"
+    ],
+    "department": "Physics",
+    "bio": "Electrocatalysis & Electroanalysis Division",
+    "email": "okiadep@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/oki-ade-putra/"
+  },
+  "gunawan": {
+    "name": "Gunawan",
+    "roles": [
+      "Professor"
     ],
     "department": "Chemistry",
-    "email": "yi.lu@utexas.edu",
-    "building": "WEL",
-    "room": "4.244",
-    "profileUrl": "https://chemistry.utexas.edu/directory/yi-lu",
-    "image": {
-      "src": "2025-01/Yi Lu head shot.jpg"
-    }
+    "bio": "Photoelectrochemistry Division",
+    "email": "gunawan@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/gunawan/"
   },
-  "yuanyue-liu": {
-    "name": "Yuanyue Liu",
+  "alvin-romadhoni-putra-hidayat": {
+    "name": "Alvin Romadhoni Putra Hidayat",
     "roles": [
-      "Assistant Professor",
-      "Affiliated Faculty, Oden Institute"
-    ],
-    "profileUrl": "https://www.me.utexas.edu/people/faculty-directory/liu",
-    "image": {
-      "src": "2023-09/Yuanyue_Liu_2021.png"
-    }
-  },
-  "yuebing-zheng": {
-    "name": "Yuebing Zheng",
-    "roles": [
-      "Associate Professor"
-    ],
-    "profileUrl": "https://www.me.utexas.edu/people/faculty-directory/zheng",
-    "image": {
-      "src": "2023-09/Zheng-Yuebing.png"
-    }
-  },
-  "zachariah-page": {
-    "name": "Zachariah Page",
-    "roles": [
-      "Associate Professor"
+      "Assistant Professor"
     ],
     "department": "Chemistry",
-    "email": "zpage@cm.utexas.edu",
-    "building": "NHB",
-    "room": "5.510",
-    "profileUrl": "https://chemistry.utexas.edu/directory/zachariah-page",
-    "image": {
-      "src": "2024-12/2025-ZAP_Chem-square.jpg"
-    }
+    "bio": "Photoelectrochemistry Division",
+    "email": "alvinromadhoniputrah@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/alvin-romadhoni-putra-hidayat/"
+  },
+  "sri-widodo-agung-suedy": {
+    "name": "Sri Widodo Agung Suedy",
+    "roles": [
+      "Assistant Professor"
+    ],
+    "department": "Biology",
+    "bio": "Bioelectrochemistry Division",
+    "email": "sriwidodoagungsuedy@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/sri-widodo-agung-suedy/"
+  },
+  "irfan-anwar-fauzan": {
+    "name": "Irfan Anwar Fauzan",
+    "roles": [
+      "Assistant Professor"
+    ],
+    "department": "Biotechnology",
+    "bio": "Bioelectrochemistry Division",
+    "email": "irfananwar@lecturer.undip.ac.id",
+    "profileUrl": ""
+  },
+  "yeva-fadhilah-ashari": {
+    "name": "Yeva Fadhilah Ashari",
+    "roles": [
+      "Assistant Professor"
+    ],
+    "department": "Statistic",
+    "bio": "Computational Electrochemistry Division",
+    "email": "yeva@lecturer.undip.ac.id",
+    "profileUrl": "https://scholar.undip.ac.id/en/persons/yeva-fadhilah-ashari/"
+  },
+  "erik-bhekti-yutomo": {
+    "name": "Erik Bhekti Yutomo",
+    "roles": [
+      "Assistant Professor"
+    ],
+    "department": "Physics",
+    "bio": "Computational Electrochemistry Division",
+    "email": "erikbhektiyutomo@lecturer.undip.ac.id",
+    "profileUrl": ""
+  },
+  "hafidh-khoerul-fata": {
+    "name": "Hafidh Khoerul Fata",
+    "roles": [
+      "Assistant Professor"
+    ],
+    "department": "Mathematics",
+    "bio": "Computational Electrochemistry Division",
+    "email": "hafidhkf@lecturer.undip.ac.id",
+    "profileUrl": ""
   }
 }

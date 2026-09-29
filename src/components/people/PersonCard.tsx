@@ -3,6 +3,12 @@ import ResponsiveImage from '@/components/ui/ResponsiveImage';
 import { PORTRAIT_WIDTHS } from '@/lib/images';
 import type { Person } from '@/lib/types';
 
+/** First and last initials, as in the directory's fallback avatar. */
+function initials(name: string) {
+  const parts = name.trim().split(/\s+/);
+  return parts.length > 1 ? `${parts[0][0]}${parts[parts.length - 1][0]}` : parts[0].slice(0, 2);
+}
+
 const BUILDING_MAP_URL = 'https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps';
 
 /** Contact card for a faculty or staff member. */
@@ -21,10 +27,7 @@ export default function PersonCard({ person }: { person: Person }) {
               height={600}
             />
           ) : (
-            person.name
-              .split(/\s+/)
-              .map((part) => part[0])
-              .join('')
+            initials(person.name)
           )}
         </div>
         <div className="w-full flow">
@@ -35,10 +38,10 @@ export default function PersonCard({ person }: { person: Person }) {
             ))}
           </ul>
           <div className="text-16 font-medium tl:text-18">{person.department}</div>
-          {person.bio && (
+          {(person.bio || person.researchGroup) && (
             <div className="copy copy--on-dark-bg text-18">
               {/* Paragraphs are separated by blank lines, line breaks by single newlines. */}
-              {person.bio.split(/\n{2,}/).map((para, i) => (
+              {(person.bio ? person.bio.split(/\n{2,}/) : []).map((para, i) => (
                 <p key={i}>
                   {para.split('\n').map((line, j) => (
                     <Fragment key={j}>
@@ -48,6 +51,11 @@ export default function PersonCard({ person }: { person: Person }) {
                   ))}
                 </p>
               ))}
+              {person.researchGroup && (
+                <p>
+                  <a href={person.researchGroup.href}>{person.researchGroup.label}</a>
+                </p>
+              )}
             </div>
           )}
         </div>
@@ -84,10 +92,12 @@ export default function PersonCard({ person }: { person: Person }) {
             </div>
           </div>
         )}
-        {person.profileUrl && (
+        {person.profileUrl ? (
           <a href={person.profileUrl} className="btn btn--arrow-right-long ml-auto uppercase">
             View Profile
           </a>
+        ) : (
+          person.profileUrl === '' && <span className="btn btn--arrow-right-long ml-auto uppercase">View Profile</span>
         )}
       </div>
     </div>

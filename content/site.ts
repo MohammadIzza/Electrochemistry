@@ -6,10 +6,10 @@
 import type { SiteConfig } from '@/lib/types';
 
 const site: SiteConfig = {
-  name: 'Allen J. Bard Center for Electrochemistry',
-  shortName: 'Bard CEC',
+  name: 'Research Cluster for Electrochemistry',
+  shortName: 'RCEC',
   description:
-    'Capitalizing on a half-century of excellence in electrochemistry at UT Austin to foster collaborative research programs in the electrochemical sciences.',
+    'Founded in 2025, the Research Cluster for Electrochemistry at the Faculty of Science and Mathematics, Universitas Diponegoro, advances collaborative research across the electrochemical sciences.',
   /** Canonical public URL, used for share links and calendar invites. */
   url: 'https://electrochemistry.utexas.edu',
   logo: { src: '/images/logo.svg', srcOnDark: '/images/logo-white.svg', width: 3594.2, height: 1069.6 },
@@ -44,10 +44,10 @@ const site: SiteConfig = {
           label: 'Research Overview',
           href: '/research',
           children: [
-            { label: 'Electrocatalysis', href: '/research/electrocatalysis-electrochemical-energy-conversion-storage' },
+            { label: 'Electrocatalysis & Electroanalysis', href: '/research/electrocatalysis-electrochemical-energy-conversion-storage' },
             { label: 'Photoelectrochemistry', href: '/research/photoelectrochemistry-and-fuel-generation' },
             { label: 'Bioelectrochemistry', href: '/research/bioelectrochemistry-sensors' },
-            { label: 'Computational Materials & Electrochemistry', href: '/research/computational-materials-electrochemistry' },
+            { label: 'Computational Electrochemistry', href: '/research/computational-materials-electrochemistry' },
           ],
         },
       ],
@@ -85,9 +85,9 @@ const site: SiteConfig = {
         href: '/research',
         children: [
           { label: 'Bioelectrochemistry', href: '/research/bioelectrochemistry-sensors' },
-          { label: 'Computational Materials & Electrochemistry', href: '/research/computational-materials-electrochemistry' },
-          { label: 'Electrocatalysis', href: '/research/electrocatalysis-electrochemical-energy-conversion-storage' },
-          { label: 'Photoelectrochemical systems', href: '/research/photoelectrochemistry-and-fuel-generation' },
+          { label: 'Computational Electrochemistry', href: '/research/computational-materials-electrochemistry' },
+          { label: 'Electrocatalysis & Electroanalysis', href: '/research/electrocatalysis-electrochemical-energy-conversion-storage' },
+          { label: 'Photoelectrochemistry', href: '/research/photoelectrochemistry-and-fuel-generation' },
         ],
       },
       { label: 'People', href: '/people' },

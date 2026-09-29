@@ -148,7 +148,10 @@ export interface Person {
   building?: string;
   buildingUrl?: string;
   room?: string;
+  /** Link for "View Profile"; an empty string shows the label without a link. */
   profileUrl?: string;
+  /** Research group link shown under the bio. */
+  researchGroup?: NavLink;
   image?: MediaImage;
 }
 
